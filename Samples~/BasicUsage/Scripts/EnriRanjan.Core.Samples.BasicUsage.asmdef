@@ -1,7 +1,10 @@
 {
-    "name": "EnriRanjan.__PACKAGE_NAME__",
-    "rootNamespace": "EnriRanjan.__PACKAGE_NAME__",
-    "references": [],
+    "name": "EnriRanjan.Core.Samples.BasicUsage",
+    "rootNamespace": "EnriRanjan.Core.Samples.BasicUsage",
+    "references": [
+        "EnriRanjan.Core",
+        "EnriRanjan.Core.Unity"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -10,5 +13,5 @@
     "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
-    "noEngineReferences": true
+    "noEngineReferences": false
 }

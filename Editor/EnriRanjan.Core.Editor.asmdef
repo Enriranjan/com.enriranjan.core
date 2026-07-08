@@ -1,8 +1,8 @@
 {
-    "name": "EnriRanjan.__PACKAGE_NAME__.Editor",
-    "rootNamespace": "EnriRanjan.__PACKAGE_NAME__.Editor",
+    "name": "EnriRanjan.Core.Editor",
+    "rootNamespace": "EnriRanjan.Core.Editor",
     "references": [
-        "EnriRanjan.__PACKAGE_NAME__"
+        "EnriRanjan.Core"
     ],
     "includePlatforms": [
         "Editor"

@@ -17,7 +17,7 @@ Package: `com.enriranjan.core`
 
 ## Installation
 
-See the main [README](../README.md#instalación) for installation instructions
+See the main [README](../README.md#installation) for installation instructions
 (Git URL or embedded package).
 
 ## Getting Started
